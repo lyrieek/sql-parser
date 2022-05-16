@@ -1,0 +1,12 @@
+plugins {
+    id 'org.jetbrains.kotlin.jvm' version '1.6.20'
+    id 'java'
+}
+
+group 'com.lyrieek.sqlParser'
+description 'SQL 解析'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
